@@ -45,3 +45,10 @@ h1 {
   max-width: 800px;
   margin: 0 auto 28px auto;
 }
+
+.content {
+  padding: 100px 20px;
+  color: white;
+  text-align: center;
+  background-color: white;
+}
