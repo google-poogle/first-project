@@ -45,3 +45,11 @@ h1 {
   max-width: 800px;
   margin: 0 auto 28px auto;
 }
+.header {
+  padding: 50px 20px;
+  background-color: green;
+}
+.header h1 { 
+  font-size: 30px;
+  color: white;
+}
