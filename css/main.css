@@ -60,5 +60,12 @@ h1 {
   padding: 100px 20px;
   color: white;
   text-align: center;
-  background-color: white;
+  background-color: red;
+}
+
+.header  {
+  padding: 100px 20px;
+  color: white;
+  text-align: left;
+  background-color: orange;
 }
