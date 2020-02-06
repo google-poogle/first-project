@@ -45,13 +45,20 @@ h1 {
   max-width: 800px;
   margin: 0 auto 28px auto;
 }
+
 .footer {
   padding: 50px 20px;
   background-color: blue;
-
 }
 .footer H1 { 
   font-size: 30px;
   color: white;
   text-align: right;
+}
+
+.content {
+  padding: 100px 20px;
+  color: white;
+  text-align: center;
+  background-color: white;
 }
